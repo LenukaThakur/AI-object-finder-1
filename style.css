@@ -1,0 +1,22 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+#heading{
+font-size: 25px;
+background-color: chartreuse;
+}
+
+#heading1{
+    margin: 5px;
+    font-size: 25px;
+    background-color: chartreuse;
+    }
+    
+#Name{
+    margin: 5px;
+    font-size: 15px;
+    background-color: darkorchid;
+}
+
